@@ -1,5 +1,5 @@
 # Smart_Contracts
-This repository includes a collection of basic smart contracts written as part of my Solidity learning experience.
+This repository includes a collection of smart contracts written as part of my Solidity learning experience.
 
 The code included in this repository was written and tested on Remix IDE found here: https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.1+commit.df193b15.js
 
