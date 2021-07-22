@@ -1,4 +1,4 @@
-# Smart_Contracts
+# Learning_Solidity
 This repository includes a collection of smart contracts written as part of my Solidity learning experience.
 
 The code included in this repository was written and tested on Remix IDE found here:
