@@ -9,6 +9,8 @@ pragma solidity ^0.8.1;
 // - Solidity 0.6.8 introduces SPDX license identifiers so developers can specify the license the contract uses
 // - Visibility (public/external) is not needed for constructors anymore (starting Solidity 0.7.5): To prevent a contract from being created, it can be marked abstract 
 
+// Purpose: read and write value to the blockchain
+
 contract MyContract {
     string value; //variable will be stored on the blockchain in the contract
     
