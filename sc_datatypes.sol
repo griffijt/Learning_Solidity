@@ -19,4 +19,4 @@ contract MyContract {
     uint public myUint = 1; //declare unsigned integer... cannot be negative
     uint8 public myUint8 = 8; //declare unsigned integer of memory 8 bits
     uint256 public myUint256 = 99999; //declare unsigned integer of memory 256 bits
-    }
+}
