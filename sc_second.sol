@@ -10,7 +10,7 @@ pragma solidity ^0.8.1;
 
 // Purpose: include minor changes to the first smart contract I wrote found under griffijt/Smart_Contracts/sc_first.sol
 
-// Minor changes to the first smart contract include:
+// Minor changes to sc_first include:
 // - set the default value within Solidity
 // - declare variable public in Solidity
 // - declare a new variable constant in Solidity 
