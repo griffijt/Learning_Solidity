@@ -8,12 +8,12 @@ pragma solidity ^0.8.1;
 //   For this contract: add memory keyword for string parameter
 // - Solidity 0.6.8 introduces SPDX license identifiers so developers can specify the license the contract uses
 
-//Purpose: include minor changes to the first smart contract I wrote found under griffijt/Smart_Contracts/sc_first.sol
+// Purpose: include minor changes to the first smart contract I wrote found under griffijt/Smart_Contracts/sc_first.sol
 
-//Minor changes to the first smart contract include:
-//- set the default value within Solidity
-//- declare variable public in Solidity
-//- declare a new variable constant in Solidity 
+// Minor changes to the first smart contract include:
+// - set the default value within Solidity
+// - declare variable public in Solidity
+// - declare a new variable constant in Solidity 
 
 contract MyContract {
     //variable will be stored on the blockchain in the contract
