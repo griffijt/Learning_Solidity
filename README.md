@@ -5,7 +5,6 @@ The code included in this repository was written and tested on Remix IDE found h
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.1+commit.df193b15.js
 
 My guide to this repository is dApp University's Intro to Solidity found here:
-
 https://www.youtube.com/watch?v=ipwxYa-F1uY
 
 A huge thanks goes out to [Gregory](https://twitter.com/DappUniversity) for his clear and consice tutorials, without which, this repository would not exist.
