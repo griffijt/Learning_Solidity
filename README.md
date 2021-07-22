@@ -7,7 +7,7 @@ https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=solj
 My guide to this repository is dApp University's Intro to Solidity found here: 
 https://www.youtube.com/watch?v=ipwxYa-F1uY
 
-A huge thanks goes out to [Gregory](https://twitter.com/DappUniversity) for his clear and consice tutorials.
+A huge thanks goes out to [Gregory](https://twitter.com/DappUniversity) for his clear and consice tutorials, without which, this repository would not exist.
 
 When testing the code, I used the JavaScript VM ("virtual machine"), a proxy Ethereum blockchain used for testing smart contracts.
 
